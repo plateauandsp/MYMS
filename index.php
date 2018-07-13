@@ -1,4 +1,2 @@
-<?php 
-#       phpinfo(); 
-hello
-?> 
+123
+123
